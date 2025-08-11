@@ -9,6 +9,6 @@ Este repositorio contiene los ejercicios de programacion en java del taller de n
 
 ### Instrucciones
 
-1.Clona el Repositorio.
-2.Navega a cada directorio de ejercicios.
-3.Compila y ejecuta los archivos '.java' para probar ejercicios.
+1. Clona el Repositorio.
+2. Navega a cada directorio de ejercicios.
+3. Compila y ejecuta los archivos '.java' para probar ejercicios.
