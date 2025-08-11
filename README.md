@@ -1,2 +1,2 @@
-# Ejercicios-programacion2
-Ejercicios del taller de programacion 2
+# Ejercicios-programacion
+Ejercicios del taller de programacion 
