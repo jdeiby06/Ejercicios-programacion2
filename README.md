@@ -2,10 +2,10 @@
 Este repositorio contiene los ejercicios de programacion en java del taller de nivelacion.
 
 ### Contenido
--Respuestas a las preguntas de GIT y Porgramacion
--Calculadora Basica
--Contador de Vocales y Consonantes
--Invertir una Cadena
+- Respuestas a las preguntas de GIT y Porgramacion
+- Calculadora Basica
+- Contador de Vocales y Consonantes
+- Invertir una Cadena
 
 ### Instrucciones
 
