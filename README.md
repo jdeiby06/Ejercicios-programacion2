@@ -93,7 +93,3 @@ Java?
 22. ¿Qué es una variable de entorno y por qué son importantes para Java o la
 programación en general?
 *R/*Una variable de entorno es un valor con un nombre dinámico en tu computadora que puede influir en el comportamiento de los procesos en ejecución, son importantes para la programación ya que permiten configurar aplicaciones sin modificar el código fuente.
-
-git push
-git config --global user.name "jdeiby06
-"
